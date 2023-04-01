@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SynergyDz</string>
+    <string name="input_hint">Введите число</string>
+    <string name="button_text">Проверить</string>
+</resources>
